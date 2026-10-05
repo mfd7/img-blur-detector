@@ -1,0 +1,17 @@
+zig-cache/
+.zig-cache/
+zig-out/
+
+*.o
+*.a
+*.so
+*.dylib
+*.dll
+*.pdb
+
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
